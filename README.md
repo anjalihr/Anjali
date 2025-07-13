@@ -7,8 +7,8 @@ I'm passionate about harnessing the power of Artificial Intelligence and Machine
 
 I thrive on exploring new technologies, constantly learning and pushing boundaries to stay at the forefront of the ever-evolving tech landscape. Let’s build something amazing together! 💡
 <br>
-## 🔧 My Tech Stack
-Languages: [Python, JavaScript, C]
-Frameworks & Libraries: [React, Node.js]
-Tools & Platforms: [Git, VS Code]
+## 🔧 My Tech Stack<br>
+Languages: [Python, JavaScript, C]<br>
+Frameworks & Libraries: [React, Node.js]<br>
+Tools & Platforms: [Git, VS Code]<br>
 Databases: [MySQL, MongoDB]
